@@ -12,7 +12,7 @@ async function gerarCodigo() {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
-            "Authorization": "Bearer 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"
+            "Authorization": "Bearer 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"
         },
         body: JSON.stringify({
             model: "llama-3.3-70b-versatile",
